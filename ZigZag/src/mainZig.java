@@ -59,6 +59,8 @@ public class mainZig {
 		//char[] c=new char[3];
 		//for(char k:c)
 		System.out.print(convert("ABCDEF",3));
+		//////////////////////////////////////////////////
+		System.exit(0);
 	}
 
 }
